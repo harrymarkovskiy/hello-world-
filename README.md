@@ -1,2 +1,2 @@
 # hello-world-
-this is my firat repository
+this is my first repository
